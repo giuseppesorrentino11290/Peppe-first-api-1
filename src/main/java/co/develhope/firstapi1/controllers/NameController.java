@@ -17,7 +17,6 @@ public class NameController {
         StringBuilder stringBuilder= new StringBuilder("Giuseppe");
         stringBuilder.reverse();
         return stringBuilder.toString();
-
     }
 
 }
